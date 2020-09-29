@@ -1,0 +1,30 @@
+# XML file that store data for a library
+# The library has two catalogues( technical books and cookery books)
+# Each catalogue contain two books
+# Books have ISBN, title and atuthor
+
+
+<?xml version="1.0"encoding="UTF-8"?>
+<catalog>
+    <book isbn-13="9781789131512" isbn-10="1789131510">
+        <title>Architects of Intelligence</title>
+        <author>Martin Ford</author>
+    </book>
+    <book isbn-13="9781784163068" isbn-10="1784163066">
+         <title>Hello World</title>
+         <author>Hannah Fry</author>
+    </book>
+</catalog>
+<
+    catalog>
+       <book isbn-13="9780091871000" isbn-10="009187100x">
+          <title>Roast Chicken and Other Stories</title>
+          <author>Simpson Hopkinson</author>
+       </book>
+       <book isbn-13="9780141045856" isbn-10="014104585x">
+          <title>Real Fast Food</title>
+          <author>Nigel Slater</author>
+        </book>
+    </catalog>
+        
+     
